@@ -12,3 +12,4 @@ __Examples:__ Simple basic examples that can be used to start projects.
 
 __Tools:__ Bootloader firmware for PIC18f4550, basically the Microchip Bootloader example. Uses 1k hex bytes. Tools alos contains  the windows bootloader executable.
 
+for more info contact info@z-control.ch
