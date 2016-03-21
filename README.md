@@ -3,7 +3,7 @@
 Copy of the documentation published on www.z-control.ch from 2010 to 2015
 
 ![GitHub Logo](/images/picstar_11_lr2.jpg)
-Format: ![Alt Text](url)
+
 
 #Contents
 
