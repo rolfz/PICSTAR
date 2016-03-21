@@ -10,3 +10,5 @@ Lib: The library files contain basic code/drivers used in the examples. They whe
 
 Examples: Simple basic examples that can be used to start projects.
 
+Tools: Bootloader firmware for PIC18f4550, basically the Microchip Bootloader example. Uses 1k hex bytes. Tools alos contains  the windows bootloader executable.
+
